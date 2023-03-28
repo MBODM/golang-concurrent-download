@@ -1,2 +1,2 @@
 # golang-concurrent-download
-Simple example how to handle concurrent downloads in Go
+Simple example of how to do concurrent downloads in Go
